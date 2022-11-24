@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alex2022cci
-- 👀 I’m interested in gaming : from 421 to MTG
+- 👀 I’m interested in astrnomy, gaming, SF books
 - 🌱 I’m currently learning, JS, Android Studio
 - 💞️ I’m looking to collaborate on CYOA
 
